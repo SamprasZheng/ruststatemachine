@@ -1,0 +1,1 @@
+D:\DOT\rust-state-machine\0223\dcsrsm\target\debug\dcsrsm.exe: D:\DOT\rust-state-machine\0223\dcsrsm\src\balances.rs D:\DOT\rust-state-machine\0223\dcsrsm\src\main.rs D:\DOT\rust-state-machine\0223\dcsrsm\src\system.rs
